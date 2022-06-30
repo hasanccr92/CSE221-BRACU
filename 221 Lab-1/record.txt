@@ -1,0 +1,5 @@
+percentage of odd parity:40.0%
+percentage of even parity:20.0%
+percentage of no parity:40.0%
+percentage of palindrome:40.0%
+percentage of no palindrome:60.0%
