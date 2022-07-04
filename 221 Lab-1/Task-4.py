@@ -7,8 +7,8 @@
 ##############TASK-5################
 f1 = open('matInp.txt',mode = 'r')
 
-n = f1.readline()
-n = int(n)
+n = int(f1.readline())
+
 
 matA = []
 for i in range(n):
