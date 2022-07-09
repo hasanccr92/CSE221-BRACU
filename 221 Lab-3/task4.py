@@ -8,6 +8,7 @@ Original file is located at
 """
 
 #------------Task-4-----------
+#This code doesn't work
 
 file1 = open("Task4In.txt",mode = "r")
 t = int(file1.readline()) 
